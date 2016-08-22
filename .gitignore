@@ -1,0 +1,4 @@
+.idea/
+movie-analyst-admin/node_modules
+movie-analyst-api/node_modules
+movie-analyst-website/node_modules
