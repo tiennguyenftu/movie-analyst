@@ -1,9 +1,6 @@
 .idea/
+
 movie-analyst-admin/node_modules
-movie-analyst-admin/npm-debug.log
-
 movie-analyst-website/node_modules
-movie-analyst-website/npm-debug.log
-
 movie-analyst-api/node_modules
 
